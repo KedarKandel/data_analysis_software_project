@@ -1,0 +1,12 @@
+# Virtual environment
+my_env/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Other files
+*.log
+*.sqlite3
